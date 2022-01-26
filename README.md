@@ -1,2 +1,5 @@
 # BRGR-TOKEN
-BRGR-KIP7 
+
+## Mainnet
+0x19488de06092dacad7e21920606eef2e2a63a096
+
